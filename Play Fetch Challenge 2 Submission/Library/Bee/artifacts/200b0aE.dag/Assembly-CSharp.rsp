@@ -353,6 +353,8 @@
 "Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs"
 "Assets/Challenge 2/Scripts/DetectCollisionsX.cs"
 "Assets/Challenge 2/Scripts/MoveForwardX.cs"
+"Assets/Challenge 2/Scripts/NewBehaviourScript.cs"
+"Assets/Challenge 2/Scripts/OpenLink.cs"
 "Assets/Challenge 2/Scripts/PlayerControllerX.cs"
 "Assets/Challenge 2/Scripts/SpawnManagerX.cs"
 -langversion:9.0
